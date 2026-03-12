@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Elsomie
 - 👀 I’m interested in IT, Power Engineering, Coding, Sports.
-- 🌱 I’m currently learning Full Stack Software Development.
+- 🌱 I’m currently learning Full Stack Software Development and studying at the University of Hull, UK.
 - 💞️ I’m looking to collaborate on building systems that will meet human needs.
-- 📫 How to reach me: anaetosomto@gmail.com, +234 803 868 6213.
+- 📫 How to reach me: anaetosomto@gmail.com, +44 7827 437367.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am lovable.
 
